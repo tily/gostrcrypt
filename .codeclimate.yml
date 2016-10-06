@@ -1,0 +1,22 @@
+---
+engines:
+  fixme:
+    enabled: true
+  gofmt:
+    enabled: true
+  govet:
+    enabled: true
+  golint:
+    enabled: true
+    checks:
+      GoLint/Naming/MixedCaps:
+        enabled: false
+      GoLint/Naming/Initialisms:
+        enabled: false
+      GoLint/Comments/DocComments:
+        enabled: false
+ratings:
+  paths:
+    - "**.go"
+exclude_paths:
+- vendor/

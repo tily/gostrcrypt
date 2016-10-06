@@ -4,7 +4,7 @@ Golang library to encrypt/decrypt short string.
 
 ## Usage
 
-```
+```go
 package main
 
 import (

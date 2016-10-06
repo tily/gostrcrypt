@@ -1,5 +1,11 @@
 # gostrcrypt
 
+[![Build Status](https://travis-ci.org/tily/gostrcrypt.svg?branch=master)](https://travis-ci.org/tily/gostrcrypt)
+[![Code Climate](https://codeclimate.com/github/tily/gostrcrypt/badges/gpa.svg)](https://codeclimate.com/github/tily/gostrcrypt)
+[![Issue Count](https://codeclimate.com/github/tily/gostrcrypt/badges/issue_count.svg)](https://codeclimate.com/github/tily/gostrcrypt)
+[![Coverage Status](https://coveralls.io/repos/github/tily/gostrcrypt/badge.svg?branch=master)](https://coveralls.io/github/tily/gostrcrypt?branch=master)
+[![GoDoc](https://godoc.org/github.com/tily/gostrcrypt?status.svg)](http://godoc.org/github.com/tily/gostrcrypt)
+
 Golang library to encrypt/decrypt short string.
 
 ## Usage

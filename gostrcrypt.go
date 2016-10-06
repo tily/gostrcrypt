@@ -9,7 +9,7 @@ import (
 )
 
 type StrCrypt struct {
-	Key []byte
+	Key string
 }
 
 func (sc *StrCrypt) Encrypt(plaintext string) (string, error) {
